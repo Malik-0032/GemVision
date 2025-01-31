@@ -8,7 +8,7 @@ const clearButton = document.getElementById('clear-btn');
 const exitButton = document.getElementById('exit-btn');
 
 // API Configuration
-const API_URL = 'http://localhost:8000';
+const API_URL = 'https://gemvision.onrender.com';
 
 // State
 let currentFile = null;
