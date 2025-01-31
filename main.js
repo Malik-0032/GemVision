@@ -155,4 +155,4 @@ exitButton.addEventListener('click', () => {
 });
 
 // Initial welcome message
-addMessage('👋 Welcome to GemVision AI! I\'m powered by Google\'s Gemini Pro Vision model. I can help you analyze images and answer your questions. How can I assist you today?');
+addMessage('👋 Welcome to GemVision AI! I'm powered by Google's Gemini Pro Vision model. I can help you analyze images and answer your questions. How can I assist you today?');
