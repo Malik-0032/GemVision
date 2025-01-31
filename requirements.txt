@@ -1,0 +1,6 @@
+flask
+python-dotenv
+cryptography
+fastapi uvicorn
+google-generativeai
+gunicorn
